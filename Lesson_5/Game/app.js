@@ -5,6 +5,7 @@ const timeEl = document.querySelector('#time')
 const board = document.querySelector('#board')
 const colors = ['red', 'green', 'yellow']  //добавила массив цветов
 
+
 let time = 0
 let score = 0
 
